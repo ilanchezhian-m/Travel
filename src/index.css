@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding:0 ;
+    font-family: 'Inter', sans-serif;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    font-size: 16px;
+    
+}
+.app-main{
+    background-color: white;
+    padding-bottom: 10px;
+   
+}

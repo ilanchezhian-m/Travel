@@ -1,0 +1,63 @@
+.navbar-outline{
+    background-color: #F55A5A;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    height: 55px;
+    width: 100%;
+  
+}   
+.navbar-outline img{
+        margin-right: 10px;
+        height: 24px;
+        align-self: center;
+}
+.navbar-outline h1{
+    align-self: center;
+    font-size: 15px;
+    font-family: 900;
+    word-spacing:-1px;
+}
+
+/* Hero (Main section) */
+/* Hero (Main section) */
+.hero--body {
+    margin: 60px;
+    display: flex; /* Add display: flex to create a flex container */
+    align-items: center; /* Vertically center the content */
+}
+
+.hero--img {
+    height: 170px;
+    width: 125px;
+    border-radius: 10px;
+    margin-right: 20px; /* Add some margin to separate the images */
+}
+
+.hero--content {
+    display: flex; /* Create a nested flex container for the text content */
+    flex-direction: column; /* Stack text content vertically */
+}
+.hero-star-city-map{
+    display: flex;
+    flex-direction: row;
+}
+.hero-star-city-map img {
+    margin-right: 10px; /* Add horizontal gap between icon and city */
+}
+
+.hero-star-city-map p {
+    margin-right: 10px; /* Add horizontal gap between city and link */
+}
+.hero-para{
+    font-size: 14px;
+    
+}
+
+.hero--body h1{
+    line-height: 0;
+  
+}
+
+
